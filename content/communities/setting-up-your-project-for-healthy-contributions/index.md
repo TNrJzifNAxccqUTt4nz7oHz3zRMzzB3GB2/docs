@@ -1,4 +1,4 @@
----
+---nasgulsaparbek@gmail.com
 title: Setting up your project for healthy contributions
 shortTitle: Healthy contributions
 intro: 'Repository maintainers can set contributing guidelines to help collaborators make meaningful, useful contributions to a project.'
